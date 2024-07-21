@@ -56,7 +56,7 @@ const App = () => {
                   />
                 </div>
               </div>
-              <div className="bg-slate-100 mt-2 container mx-auto p-4">
+              <div className="bg-mybg mt-2 container mx-auto p-4">
                 <div className="grid md:gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                   {filteredCards.map((card, index) => (
                     <Card key={index} {...card} />

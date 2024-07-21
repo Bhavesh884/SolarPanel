@@ -42,7 +42,7 @@ const Card = ({
       <div className="p-4 pt-2 text-sm sm:text-base lg:text-lg uppercase">
         <Link
           to={`/product/${id}`}
-          className=" w-full text-center font-semibold bg-yellow-500 text-white py-2 px-4 rounded-sm inline-block"
+          className=" w-full text-center font-semibold bg-mybtn text-white py-2 px-4 rounded-sm inline-block"
         >
           Enquiry
         </Link>

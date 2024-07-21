@@ -30,7 +30,7 @@ const Navbar = ({ onSearch }) => {
   return (
     <div>
       {/* Top Bar */}
-      <div className="bg-yellow-500 p-2 text-xs md:text-sm text-white flex justify-between items-center">
+      <div className="bg-primary p-2 text-xs md:text-sm text-white flex justify-between items-center">
         <span>support@solruf.com</span>
         <span>Pan India Services</span>
         <span className="flex items-center">
@@ -40,7 +40,7 @@ const Navbar = ({ onSearch }) => {
       </div>
 
       {/* Main Navbar */}
-      <nav className="bg-gray-800 p-4 flex justify-between items-center">
+      <nav className="bg-secondary p-4 flex justify-between items-center">
         <div className="flex items-center space-x-4">
           <img
             src="https://i.ibb.co/CzpgVFq/51.png"
@@ -82,7 +82,7 @@ const Navbar = ({ onSearch }) => {
             </a>
           </div>
           <div className="hidden md:block text-xs lg:text-sm ">
-            <button className="bg-yellow-500 text-black py-2 px-4 rounded">
+            <button className="bg-tertiary text-black py-2 px-4 rounded">
               Login Or Register
             </button>
           </div>
@@ -171,7 +171,7 @@ const Navbar = ({ onSearch }) => {
       </div>
 
       {/* Enquiry Bar */}
-      <div className="bg-yellow-500 p-2 text-sm text-white flex justify-center items-center">
+      <div className="bg-tertiary p-2 text-sm text-white flex justify-center items-center">
         <span>In case of enquiry, contact us</span>
         <a
           href="https://wa.me/9189765888792"

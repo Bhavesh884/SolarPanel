@@ -110,7 +110,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="mt-2 bg-yellow-500 text-black py-2 text-center">
+      <div className="mt-2 bg-tertiary text-black py-2 text-center">
         &copy;SOLRUF INDIA PRIVATE LIMITED All Rights Reserved
       </div>
     </footer>

@@ -35,8 +35,8 @@ const ProductDetails = () => {
   }
 
   return (
-    <div className="container mx-auto p-4">
-      <div className="flex flex-col lg:flex-row items-center">
+    <div className="container mx-auto p-4 mt-8">
+      <div className="bg-mybg rounded p-4 flex flex-col lg:flex-row items-center">
         <div className="w-full lg:w-1/2 p-4">
           <img src={product.image} alt={product.name} className="w-full" />
           <div className="flex mt-4 space-x-4">
@@ -60,7 +60,7 @@ const ProductDetails = () => {
               value={`https://links.solruf.com/products/${id}`}
               className="border rounded-md p-2 w-full"
             />
-            <button className="mt-2 bg-yellow-500 text-white py-2 px-4 rounded-md">
+            <button className="mt-2 bg-mybtn text-white py-2 px-4 rounded-md">
               Copy
             </button>
           </div>
@@ -69,9 +69,9 @@ const ProductDetails = () => {
           </p>
         </div>
       </div>
-      <div className="mt-8">
+      <div className="mt-8 bg-mybg p-4 rounded">
         <h2 className="text-2xl font-bold">Features</h2>
-        <div className="bg-white shadow-md rounded-lg p-4 mt-4">
+        <div className=" mt-4">
           <div className="flex justify-between">
             <div>Average Price</div>
             <div>{product.price} per watt ₹</div>
@@ -90,13 +90,10 @@ const ProductDetails = () => {
           </div>
         </div>
       </div>
-      <div className="mt-8">
+      <div className="mt-8 bg-mybg rounded p-4">
         <h2 className="text-2xl font-bold">Create an Enquiry</h2>
-        <form
-          className="bg-white shadow-md rounded-lg p-4 mt-4"
-          onSubmit={handleSubmit}
-        >
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <form className=" mt-4" onSubmit={handleSubmit}>
+          <div className=" grid grid-cols-1 sm:grid-cols-2 gap-4">
             <input
               type="text"
               name="pinCode"
@@ -175,7 +172,7 @@ const ProductDetails = () => {
           />
           <button
             type="submit"
-            className="mt-4 bg-yellow-500 text-white py-2 px-4 rounded-md"
+            className="mt-4 bg-mybtn text-white py-2 px-4 rounded-md"
           >
             SUBMIT ENQUIRY
           </button>
