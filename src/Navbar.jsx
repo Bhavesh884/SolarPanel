@@ -13,6 +13,7 @@ import {
   FaSignInAlt,
   FaWhatsapp,
 } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Navbar = ({ onSearch }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -62,9 +63,9 @@ const Navbar = ({ onSearch }) => {
         </div>
         <div className="flex gap-4">
           <div className="hidden md:flex items-center space-x-4 text-white text-xs lg:text-sm ">
-            <a href="#" className="hover:underline">
+            <Link to="/products" className="hover:underline">
               Products
-            </a>
+            </Link>
             <a href="#" className="hover:underline">
               Solar Calculator
             </a>
@@ -94,12 +95,16 @@ const Navbar = ({ onSearch }) => {
 
       {/* Mobile Sidebar */}
       <div
-        className={`fixed top-0 left-0 w-64 h-full bg-white z-50 transform ${
+        className={`fixed top-0 left-0 w-64 h-full bg-mybg z-50 transform ${
           isOpen ? "translate-x-0" : "-translate-x-full"
         } transition-transform duration-300 ease-in-out`}
       >
-        <div className="flex items-center justify-between p-4 bg-gray-800 text-white">
-          <img src="/path-to-logo.png" alt="Logo" className="h-8" />
+        <div className="flex items-center justify-between p-4 bg-secondary text-white">
+          <img
+            src="https://i.ibb.co/CzpgVFq/51.png"
+            alt="Logo"
+            className="h-8"
+          />
           <button onClick={toggleSidebar}>
             <FaTimes />
           </button>
@@ -114,13 +119,13 @@ const Navbar = ({ onSearch }) => {
           />
         </div>
         <nav className="flex flex-col p-4 space-y-4">
-          <a
-            href="#"
+          <Link
+            to={"/products"}
             className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
           >
             <FaStore />
             <span>Products</span>
-          </a>
+          </Link>
           <a
             href="#"
             className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"

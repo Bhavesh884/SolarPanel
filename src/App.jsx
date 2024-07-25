@@ -1,12 +1,14 @@
 // src/App.js
 import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Card from "./Card";
+
 import Navbar from "./Navbar";
-import Dropdown from "./Dropdown";
+
 import data from "./data.json";
-import Footer from "./Footer";
+import Home from "./Home";
+
 import ProductDetail from "./ProductDetail";
+import Products from "./Products";
 
 const App = () => {
   const [cards, setCards] = useState([]);
@@ -37,34 +39,15 @@ const App = () => {
     <Router>
       <Navbar onSearch={handleSearchChange} />
       <Routes>
+        <Route path="/" element={<Home />} />
+
         <Route
-          path="/"
+          path="/products"
           element={
-            <>
-              <div className="p-4 mt-2 container mx-auto bg-[#f5f5f5]">
-                <div className="mx-4 sm:mx-20">
-                  <Dropdown
-                    label="Sub Category"
-                    options={[
-                      "Polycrystalline",
-                      "Monocrystalline",
-                      "Thin Film",
-                      "bifacial",
-                      "TopCon",
-                    ]}
-                    onSelect={handleSubCategorySelect}
-                  />
-                </div>
-              </div>
-              <div className="bg-mybg mt-2 container mx-auto p-4">
-                <div className="grid md:gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                  {filteredCards.map((card, index) => (
-                    <Card key={index} {...card} />
-                  ))}
-                </div>
-              </div>
-              <Footer />
-            </>
+            <Products
+              handleSubCategorySelect={handleSubCategorySelect}
+              filteredCards={filteredCards}
+            />
           }
         />
         <Route path="/product/:id" element={<ProductDetail cards={cards} />} />

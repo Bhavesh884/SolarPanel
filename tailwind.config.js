@@ -5,12 +5,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#4E596F",
-        secondary: "#242A38",
-        tertiary: "#F66763",
-        mybtn: "#F87A63",
+        primary: "#404040",
+        secondary: "#17202A",
+        tertiary: "#ABABAB ",
+        mybtn: "#17202A",
         danger: "#e3342f",
-        mybg: "#F5F5F8",
+        mybg: "#f3f3f3",
       },
     },
   },
