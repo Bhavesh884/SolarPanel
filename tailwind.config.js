@@ -25,12 +25,12 @@ module.exports = {
         // => @media (min-width: 1536px) { ... }
       },
       colors: {
-        primary: "#404040",
-        secondary: "#17202A",
-        tertiary: "#ABABAB ",
+        primary: "#24273C",
+        secondary: "#181C31",
+        tertiary: "#0162EC ",
         mybtn: "#17202A",
         danger: "#e3342f",
-        mybg: "#f3f3f3",
+        mybg: "#181C31",
       },
     },
   },

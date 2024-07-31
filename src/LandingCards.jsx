@@ -2,19 +2,19 @@ import React from "react";
 
 const Card = ({ title, description, linkText, linkHref }) => {
   return (
-    <div className="bg-white relative shadow-lg rounded-lg p-4 lg:p-6 text-center flex flex-col items-center w-full md:w-2/6 lg:w-[380px] md:h-[28vw] lg:h-[280px]">
-      <div className="bg-blue-700 text-white rounded-full p-3 mb-4">
+    <div className="bg-[#24273C] relative shadow-lg rounded-lg p-4 lg:p-6 text-center flex flex-col items-center w-full md:w-2/6 lg:w-[380px] md:h-[28vw] lg:h-[280px] border-slate-500 border-solid border-[0.2px]">
+      <div className="bg-orange-700 text-white rounded-full p-3 mb-4">
         <Icon />
       </div>
-      <h2 className=" font-semibold mb-2  md:text-[1.75vw] lg:text-2xl">
+      <h2 className=" font-semibold mb-2 text-white  md:text-[1.75vw] lg:text-2xl">
         {title}
       </h2>
-      <p className=" mb-4 text-justify  md:text-[1.55vw] lg:text-base">
+      <p className=" mb-4 text-justify text-white  md:text-[1.55vw] lg:text-base">
         {description}
       </p>
       <a
         href={linkHref}
-        className="bottom-[1.6vw] md:absolute lg:bottom-[1.3vw] text-blue-600 hover:underline text-sm md:text-base lg:text-lg"
+        className="bottom-[1.6vw] md:absolute lg:bottom-[1.3vw] underline text-blue-500 hover:underline text-sm md:text-base lg:text-lg font-bold"
       >
         {linkText}
       </a>
@@ -43,14 +43,14 @@ const Icon = () => {
 
 const LandingCards = () => {
   return (
-    <div className="bg-gray-100 min-h-screen flex flex-col items-center">
+    <div className="bg-secondary min-h-screen flex flex-col items-center ">
       <div className="relative text-white text-center w-full h-[40vw] md:h-[30vw]">
         <img
           src="https://www.otovo.com/images/furumo-bw.jpg"
           alt=""
           className="w-full h-full absolute "
         />
-        <div className="absolute w-full h-full flex flex-col items-center justify-center bg-black/40">
+        <div className="absolute w-full h-full flex flex-col items-center justify-center bg-[#24273C]/20">
           <h1 className="text-2xl md:text-3xl lg:text-5xl font-bold">
             Together is better
           </h1>
@@ -60,7 +60,7 @@ const LandingCards = () => {
           </p>
         </div>
       </div>
-      <div className="flex flex-col flex-wrap gap-4 items-center justify-center py-8 w-full space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4 px-4 lg:px-8">
+      <div className="flex flex-col flex-wrap gap-4 items-center justify-center py-8 w-full space-y-4 sm:flex-row sm:space-y-0 sm:space-x-4 px-4 lg:px-8 pt-[8vw]">
         <Card
           title="Installer? Let's join forces!"
           description="Is your company interested in becoming our installation partner, and install solar systems for our customers? We can help! "

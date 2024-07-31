@@ -36,23 +36,28 @@ const App = () => {
   });
 
   return (
-    <Router>
-      <Navbar onSearch={handleSearchChange} />
-      <Routes>
-        <Route path="/" element={<Home />} />
+    <div className="bg-secondary">
+      <Router>
+        <Navbar onSearch={handleSearchChange} />
+        <Routes>
+          <Route path="/" element={<Home />} />
 
-        <Route
-          path="/products"
-          element={
-            <Products
-              handleSubCategorySelect={handleSubCategorySelect}
-              filteredCards={filteredCards}
-            />
-          }
-        />
-        <Route path="/product/:id" element={<ProductDetail cards={cards} />} />
-      </Routes>
-    </Router>
+          <Route
+            path="/products"
+            element={
+              <Products
+                handleSubCategorySelect={handleSubCategorySelect}
+                filteredCards={filteredCards}
+              />
+            }
+          />
+          <Route
+            path="/product/:id"
+            element={<ProductDetail cards={cards} />}
+          />
+        </Routes>
+      </Router>
+    </div>
   );
 };
 

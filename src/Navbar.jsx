@@ -52,11 +52,11 @@ const Navbar = ({ onSearch }) => {
             <input
               type="text"
               placeholder="Search Product"
-              className="pl-4  pr-8 py-2 text-xs lg:text-sm rounded-md border border-gray-400 focus:outline-none lg:w-[14vw] "
+              className="pl-4 bg-secondary pr-8 py-2 text-xs lg:text-sm rounded-md border border-white focus:outline-none lg:w-[14vw] text-white "
               value={searchTerm}
               onChange={handleSearchChange}
             />
-            <button className="absolute right-3 top-1/2 transform -translate-y-1/2">
+            <button className="absolute right-3 top-1/2 transform -translate-y-1/2 text-white">
               <FaSearch />
             </button>
           </div>
@@ -83,7 +83,7 @@ const Navbar = ({ onSearch }) => {
             </a>
           </div>
           <div className="hidden md:block text-xs lg:text-sm ">
-            <button className="bg-tertiary text-black py-2 px-4 rounded">
+            <button className="bg-orange-500 text-white py-2 px-4 rounded">
               Login Or Register
             </button>
           </div>

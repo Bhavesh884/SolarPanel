@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white py-8">
+    <footer className="bg-[#24273C] text-white py-8">
       <div className="container mx-auto flex flex-wrap justify-between items-center px-6">
         <div className="w-full md:w-auto mb-6 md:mb-0 flex flex-col sm:flex-row md:flex-col sm:gap-2 md:gap-0 items-center md:items-start">
           <img
@@ -110,7 +110,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="mt-2 bg-tertiary text-black py-2 text-center">
+      <div className="mt-2 bg-secondary text-white py-2 text-center">
         &copy;SOLRUF INDIA PRIVATE LIMITED All Rights Reserved
       </div>
     </footer>
