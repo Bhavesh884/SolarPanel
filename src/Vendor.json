@@ -1,0 +1,1091 @@
+[
+  {
+    "id": 1,
+    "name": "Solar Tech Inc.",
+    "description": "Leading provider of solar panels and installation services.",
+    "address": "123 Solar Street, Sun City, TX",
+    "contact": "123-456-7890",
+    "email": "contact@solartec.com",
+    "website": "https://www.solartec.com",
+    "image": "https://th.bing.com/th/id/OIP.1lC-gaQGa6WMFgaJrnuWeQAAAA?rs=1&pid=ImgDetMain",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Green Energy Solutions",
+    "description": "Innovative green energy solutions provider.",
+    "address": "456 Green Way, Eco Town, CA",
+    "contact": "987-654-3210",
+    "email": "info@greenenergy.com",
+    "website": "https://www.greenenergy.com",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/309540281/TP/AU/ZR/70991832/solar-products-500x500.png",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Renewable Power Co.",
+    "description": "Expert in renewable energy installations. Switch to revolution.",
+    "address": "789 Power Ave, Energy City, NY",
+    "contact": "555-555-5555",
+    "email": "support@renewablepower.com",
+    "website": "https://www.renewablepower.com",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOeTvyfHg60uvloRYgrtsud_wRuOebkH_aop4IU=w1080-h608-p-no-v0",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Solar Tech Inc.",
+    "description": "Leading provider of solar panels and installation services.",
+    "address": "123 Solar Street, Sun City, TX",
+    "contact": "123-456-7890",
+    "email": "contact@solartec.com",
+    "website": "https://www.solartec.com",
+    "image": "https://img4771.weyesimg.com/uploads/www.alltopgroup.com/images/16644976888035.jpg",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Green Energy Solutions",
+    "description": "Innovative green energy solutions provider.",
+    "address": "456 Green Way, Eco Town, CA",
+    "contact": "987-654-3210",
+    "email": "info@greenenergy.com",
+    "website": "https://www.greenenergy.com",
+    "image": "https://media.licdn.com/dms/image/C5112AQG85oIsT36gZg/article-cover_image-shrink_600_2000/0/1520157229907?e=2147483647&v=beta&t=rJZpKY-9bvCJL8yvfFd9JDjDbtG0i_KNKp0re_03R-Y",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Renewable Power Co.",
+    "description": "Expert in renewable energy installations.  Switch to revolution.",
+    "address": "789 Power Ave, Energy City, NY",
+    "contact": "555-555-5555",
+    "email": "support@renewablepower.com",
+    "website": "https://www.renewablepower.com",
+    "image": "https://dialcom.lk/wp-content/uploads/solar-products-400x300.jpg",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Solar Tech Inc.",
+    "description": "Leading provider of solar panels and installation services.",
+    "address": "123 Solar Street, Sun City, TX",
+    "contact": "123-456-7890",
+    "email": "contact@solartec.com",
+    "website": "https://www.solartec.com",
+    "image": "https://th.bing.com/th/id/OIP.akZAbZUxcoXJbtRnRG5zowHaE8?w=1024&h=683&rs=1&pid=ImgDetMain",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Green Energy Solutions",
+    "description": "Innovative green energy solutions provider.",
+    "address": "456 Green Way, Eco Town, CA",
+    "contact": "987-654-3210",
+    "email": "info@greenenergy.com",
+    "website": "https://www.greenenergy.com",
+    "image": "https://media.licdn.com/dms/image/C5112AQG85oIsT36gZg/article-cover_image-shrink_600_2000/0/1520157229907?e=2147483647&v=beta&t=rJZpKY-9bvCJL8yvfFd9JDjDbtG0i_KNKp0re_03R-Y",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Renewable Power Co.",
+    "description": "Expert in renewable energy installations. Switch to revolution.",
+    "address": "789 Power Ave, Energy City, NY",
+    "contact": "555-555-5555",
+    "email": "support@renewablepower.com",
+    "website": "https://www.renewablepower.com",
+    "image": "https://www.myworthingelectrician.co.uk/s/cc_images/cache_13215120.jpg",
+    "products": [
+      {
+    "id": 1,
+    "name": "Bluebird Half-Cut Solar Pv Modules 144",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Bluebird",
+    "price": "15.50 to 16.50 per watt ₹",
+    "voltage": "49.20 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+
+  },
+  {
+    "id": 2,
+    "name": "SunPower X-Series Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Monocrystalline",
+    "brand": "SunPower",
+    "price": "20.00 to 22.00 per watt ₹",
+    "voltage": "40.10 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 3,
+    "name": "Panasonic HIT Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Polycrystalline",
+    "brand": "Panasonic",
+    "price": "18.00 to 19.00 per watt ₹",
+    "voltage": "48.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 4,
+    "name": "LG NeON 2 Solar Panels",
+    "category": "Solar Panel",
+    "subCategory": "Thin Film",
+    "brand": "LG",
+    "price": "17.50 to 18.50 per watt ₹",
+    "voltage": "45.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 5,
+    "name": "JinkoSolar Eagle PERC",
+    "category": "Solar Panel",
+    "subCategory": "TopCon",
+    "brand": "JinkoSolar",
+    "price": "16.50 to 17.50 per watt ₹",
+    "voltage": "50.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  },
+  {
+    "id": 6,
+    "name": "Canadian Solar HiKu7",
+    "category": "Solar Panel",
+    "subCategory": "bifacial",
+    "brand": "Canadian Solar",
+    "price": "15.00 to 16.00 per watt ₹",
+    "voltage": "47.00 V",
+    "current": "13.47 A",
+    "frame": "Silver Anodized Aluminum frame with twin wall profile",
+    "image": "https://enerpower.ie/wp-content/uploads/2019/10/b89060aa-403e-45cd-9dcd-7a89adcca1f2.jpg",
+    "images": [
+      "https://www.shutterstock.com/image-photo/solar-panes-park-used-clean-260nw-2157795255.jpg",
+      "https://th.bing.com/th/id/OIP.VwwcB0jEt3kb2ZI37ijKsAHaEK?pid=ImgDet&w=474&h=266&rs=1",
+      "https://th.bing.com/th/id/OIP.6RJtl0ja4JlZqKDeGf5wewHaE0?pid=ImgDet&w=474&h=308&rs=1"
+    ],
+    "description": "High efficiency solar PV modules for residential and commercial use."
+  }
+    ]
+  }
+]

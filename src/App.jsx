@@ -9,6 +9,8 @@ import Home from "./Home";
 
 import ProductDetail from "./ProductDetail";
 import Products from "./Products";
+import Vendors from "./Vendors";
+import VendorDetail from "./VendorDetail";
 
 const App = () => {
   const [cards, setCards] = useState([]);
@@ -55,6 +57,8 @@ const App = () => {
             path="/product/:id"
             element={<ProductDetail cards={cards} />}
           />
+          <Route path="/vendors" element={<Vendors />} />
+          <Route path="/vendor/:vendorId" element={<VendorDetail />} />
         </Routes>
       </Router>
     </div>

@@ -43,11 +43,13 @@ const Navbar = ({ onSearch }) => {
       {/* Main Navbar */}
       <nav className="bg-secondary p-4 flex justify-between items-center">
         <div className="flex items-center space-x-4">
-          <img
-            src="https://i.ibb.co/CzpgVFq/51.png"
-            alt="Solruf Logo"
-            className=" w-32 sm:w-28 lg:w-40 mr-2 "
-          />
+          <Link to={"/"}>
+            <img
+              src="https://i.ibb.co/CzpgVFq/51.png"
+              alt="Solruf Logo"
+              className=" w-32 sm:w-28 lg:w-40 mr-2 "
+            />
+          </Link>
           <div className="relative hidden lg:flex pl-[-1vw]">
             <input
               type="text"
@@ -63,6 +65,9 @@ const Navbar = ({ onSearch }) => {
         </div>
         <div className="flex gap-4">
           <div className="hidden md:flex items-center space-x-4 text-white text-xs lg:text-sm ">
+            <Link to="/vendors" className="hover:underline">
+              Vendors
+            </Link>
             <Link to="/products" className="hover:underline">
               Products
             </Link>
@@ -77,9 +82,6 @@ const Navbar = ({ onSearch }) => {
             </a>
             <a href="#" className="hover:underline">
               About Us
-            </a>
-            <a href="#" className="hover:underline">
-              Partner With Us
             </a>
           </div>
           <div className="hidden md:block text-xs lg:text-sm ">
