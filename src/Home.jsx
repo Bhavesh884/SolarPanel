@@ -5,26 +5,24 @@ import LandingCards from "./LandingCards";
 
 const FAQ = () => {
   return (
-    <div className="bg-mybg py-6 md:py-12 lg:py-24 px-[7vw] md:px-[8vw] text-white ">
+    <div className="bg-mybg py-6 md:py-12 lg:py-24 px-[7vw] md:px-[8vw] text-mytext ">
       <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold  mb-8">
         Frequently Asked Questions.
       </h2>
 
-      <div className="w-full mx-auto bg-[#24273C] p-6 rounded-lg shadow-md">
+      <div className="w-full mx-auto bg-boxbg p-6 rounded-lg shadow-md">
         <div className="mb-4">
           <input
             type="text"
             placeholder="Search FAQs..."
-            className="w-4/6 p-2 border border-gray-300 rounded-md bg-[#24273C] focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-4/6 p-2 border  border-gray-700 rounded-md bg-boxbg focus:outline-none focus:ring-2 focus:ring-slate-500"
           />
         </div>
 
         <div className="space-y-6">
           <div>
-            <h3 className="text-xl font-semibold text-white">
-              What is Loom Solar?
-            </h3>
-            <p className="text-white">
+            <h3 className="text-xl font-semibold ">What is Loom Solar?</h3>
+            <p className="">
               A solar panel manufacturer in India, Loom Solar manufactures{" "}
               <span className="text-blue-500">solar panels</span> ranging in
               power from 10W to 575W.
@@ -32,49 +30,47 @@ const FAQ = () => {
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-white">
-              How Does It Work?
-            </h3>
-            <p className="text-white">
+            <h3 className="text-xl font-semibold ">How Does It Work?</h3>
+            <p className="">
               Our solar panels are manufactured in factories and installed
               across India by our dealers and distributors.
             </p>
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-white">
+            <h3 className="text-xl font-semibold ">
               Is Loom Solar an Indian manufacturer?
             </h3>
-            <p className="text-white">
+            <p className="">
               We are a Haryana-based solar company founded in 2018.
             </p>
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-white">
+            <h3 className="text-xl font-semibold ">
               In what range do solar panels come?
             </h3>
-            <p className="text-white">
+            <p className="">
               Our solar panels range from 10W to 575W and can be used for home
               lighting applications, businesses, and agriculture.
             </p>
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-white">
+            <h3 className="text-xl font-semibold ">
               Do you have any dealers and distributors in my area?
             </h3>
-            <p className="text-white">
+            <p className="">
               There are more than 10,000 resellers and 50,000 consumers across
               India, you can find their details on our website.
             </p>
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-white">
+            <h3 className="text-xl font-semibold">
               Can Loom Solar provide inverter batteries as well?
             </h3>
-            <p className="text-white">
+            <p className="">
               Yes, we are a consumer solar brand, so we have{" "}
               <span className="text-blue-500">energy storage</span> and solar
               inverters. We offer energy storage starting at 5kWh and{" "}
@@ -84,10 +80,10 @@ const FAQ = () => {
           </div>
 
           <div>
-            <h3 className="text-xl font-semibold text-white">
+            <h3 className="text-xl font-semibold ">
               Where can I get support and service?
             </h3>
-            <p className="text-white">
+            <p className="">
               Yes, we have. For any service, you can{" "}
               <span className="text-blue-500">create a ticket</span>. Call
               support is available Monday through Saturday, 9AM to 6:30PM.
@@ -96,28 +92,28 @@ const FAQ = () => {
         </div>
 
         <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 text-center">
-          <div className="bg-secondary p-4 rounded-lg">
+          <div className="bg-boxbg border border-solid border-slate-500 shadow-lg p-4 rounded-lg">
             <h4 className="font-semibold">Solar Company</h4>
-            <p className="text-white">
+            <p className="text-mytext">
               India's No.1 Solar Company in Residential Solar!
             </p>
           </div>
-          <div className="bg-secondary p-4 rounded-lg">
+          <div className="bg-boxbg border border-solid border-slate-500 shadow-lg p-4 rounded-lg">
             <h4 className="font-semibold">50,000 Homes</h4>
-            <p className="text-white">
+            <p className="text-mytext">
               Made Solar Powered In India including remote & hilly areas
             </p>
           </div>
-          <div className="bg-secondary p-4 rounded-lg">
+          <div className="bg-boxbg border border-solid border-slate-500 shadow-lg p-4 rounded-lg">
             <h4 className="font-semibold">6 years of Trust</h4>
-            <p className="text-white">
+            <p className="text-mytext">
               Celebrating the excellence in product innovation, Distribution and
               service.
             </p>
           </div>
-          <div className="bg-secondary p-4 rounded-lg">
+          <div className="bg-boxbg border border-solid border-slate-500 shadow-lg p-4 rounded-lg">
             <h4 className="font-semibold">Instant Service</h4>
-            <p className="text-white">
+            <p className="text-mytext">
               Contact us by Chat, Email, Phone, WhatsApp
             </p>
           </div>
@@ -147,10 +143,10 @@ const Home = () => {
     <>
       <div className="bg-mybg min-h-screen flex flex-col items-center justify-center pt-10">
         <div className="w-full flex flex-col items-center justify-center text-center pt-10 md:pt-20">
-          <h1 className="w-3/5 md:w-full text-4xl md:text-5xl font-bold text-white">
+          <h1 className="w-3/5 md:w-full text-4xl md:text-5xl font-bold text-mytext">
             Join the <span className="text-orange-500">solar revolution</span>
           </h1>
-          <p className="w-4/5 md:w-full mt-4 text-white">
+          <p className="w-4/5 md:w-full mt-4 text-lg text-mytext">
             Your roof is an untapped resource. Save money and the environment by
             going solar.
           </p>
@@ -160,13 +156,13 @@ const Home = () => {
             {countries.map((country) => (
               <button
                 key={country.code}
-                className="bg-[#24273C] p-3 md:p-4 w-[36vw] xs:w-[22vw] md:w-[18vw] lg:w-[12vw] rounded shadow hover:shadow-md transition duration-300 flex items-center justify-start space-x-2"
+                className="bg-[#dbdbdb] p-3 md:p-4 w-[36vw] xs:w-[22vw] md:w-[18vw] lg:w-[12vw] rounded shadow hover:shadow-md transition duration-300 flex items-center justify-start space-x-2"
               >
                 <Flag
                   code={country.code}
                   className="w-[6vw] xs:w-[3.7vw] md:w-[3vw] lg:w-[2vw] "
                 />
-                <span className="text-white text-[3.5vw] xs:text-[2.2vw] md:text-[1.8vw] lg:text-[1.12vw]">
+                <span className="text-mytext text-[3.5vw] xs:text-[2.2vw] md:text-[1.8vw] lg:text-[1.12vw]">
                   {country.name}
                 </span>
               </button>
@@ -200,7 +196,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          <div className="text-white p-6 rounded-lg shadow-lg md:max-w-lg w-full h-[88vw] xs:h-[60vw] md:h-[38vw] lg:h-[30vw] text-[2.85vw] xs:text-[2.25vw] md:text-[1.28vw] lg:text-[1.1vw]">
+          <div className="text-mytext p-6 rounded-lg shadow-lg md:max-w-lg w-full h-[88vw] xs:h-[60vw] md:h-[38vw] lg:h-[30vw] text-[2.85vw] xs:text-[2.25vw] md:text-[1.28vw] lg:text-[1.1vw]">
             <h2 className="text-[4.25vw] xs:text-[3.4vw] md:text-[2.8vw] lg:text-[2vw] font-bold ">
               About us
             </h2>

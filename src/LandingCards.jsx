@@ -2,19 +2,19 @@ import React from "react";
 
 const Card = ({ title, description, linkText, linkHref }) => {
   return (
-    <div className="bg-[#24273C] relative shadow-lg rounded-lg p-4 lg:p-6 text-center flex flex-col items-center w-full md:w-2/6 lg:w-[380px] md:h-[28vw] lg:h-[280px] border-slate-500 border-solid border-[0.2px]">
-      <div className="bg-orange-700 text-white rounded-full p-3 mb-4">
+    <div className="bg-boxbg relative shadow-lg rounded-lg p-4 lg:p-6 text-center flex flex-col items-center w-full md:w-2/6 lg:w-[380px] md:h-[28vw] lg:h-[280px] border-slate-300 border-solid border-[0.2px] text-mytext">
+      <div className="bg-yellow-400  rounded-full p-3 mb-4">
         <Icon />
       </div>
-      <h2 className=" font-semibold mb-2 text-white  md:text-[1.75vw] lg:text-2xl">
+      <h2 className=" font-semibold mb-2   md:text-[1.75vw] lg:text-2xl">
         {title}
       </h2>
-      <p className=" mb-4 text-justify text-white  md:text-[1.55vw] lg:text-base">
+      <p className=" mb-4 text-justify   md:text-[1.55vw] lg:text-base">
         {description}
       </p>
       <a
         href={linkHref}
-        className="bottom-[1.6vw] md:absolute lg:bottom-[1.3vw] underline text-blue-500 hover:underline text-sm md:text-base lg:text-lg font-bold"
+        className="bottom-[1.6vw] md:absolute lg:bottom-[1.3vw] underline  hover:underline text-sm md:text-base lg:text-lg font-bold"
       >
         {linkText}
       </a>
@@ -43,7 +43,7 @@ const Icon = () => {
 
 const LandingCards = () => {
   return (
-    <div className="bg-secondary min-h-screen flex flex-col items-center ">
+    <div className="bg-mybg min-h-screen flex flex-col items-center ">
       <div className="relative text-white text-center w-full h-[40vw] md:h-[30vw]">
         <img
           src="https://www.otovo.com/images/furumo-bw.jpg"

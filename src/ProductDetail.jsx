@@ -37,8 +37,8 @@ const ProductDetails = () => {
 
   return (
     <>
-      <div className="container mx-auto p-4 mt-8 mb-[8vw]">
-        <div className="bg-[#24273C] text-white rounded p-4 flex flex-col lg:flex-row items-center">
+      <div className="container mx-auto p-4 mt-8 mb-[8vw] text-mytext">
+        <div className="bg-boxbg  rounded p-4 flex flex-col lg:flex-row items-center">
           <div className="w-full lg:w-1/2 p-4">
             <img
               src={product.image}
@@ -58,13 +58,13 @@ const ProductDetails = () => {
           </div>
           <div className="w-full lg:w-1/2 p-4">
             <h1 className="text-3xl font-bold">{product.name}</h1>
-            <p className="text-white">{product.description}</p>
+            <p className="">{product.description}</p>
             <div className="mt-4">
               <input
                 type="text"
                 readOnly
                 value={`https://links.solruf.com/products/${id}`}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg"
               />
               <button className="mt-2 bg-blue-600 text-white py-2 px-4 rounded-md">
                 Copy
@@ -75,7 +75,7 @@ const ProductDetails = () => {
             </p>
           </div>
         </div>
-        <div className="mt-8 bg-[#24273C] text-white p-4 rounded">
+        <div className="mt-8 bg-boxbg  p-4 rounded">
           <h2 className="text-2xl font-bold">Features</h2>
           <div className=" mt-4">
             <div className="flex justify-between">
@@ -96,7 +96,7 @@ const ProductDetails = () => {
             </div>
           </div>
         </div>
-        <div className="mt-8 bg-[#24273C] text-white rounded p-4">
+        <div className="mt-8 bg-boxbg rounded p-4">
           <h2 className="text-2xl font-bold">Create an Enquiry</h2>
           <form className=" mt-4" onSubmit={handleSubmit}>
             <div className=" grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -106,7 +106,7 @@ const ProductDetails = () => {
                 placeholder="Pin Code"
                 value={formData.pinCode}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg"
                 required
               />
               <input
@@ -115,7 +115,7 @@ const ProductDetails = () => {
                 placeholder="State"
                 value={formData.state}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg "
                 required
               />
               <input
@@ -124,7 +124,7 @@ const ProductDetails = () => {
                 placeholder="City / District"
                 value={formData.city}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg"
                 required
               />
               <input
@@ -133,7 +133,7 @@ const ProductDetails = () => {
                 placeholder="Address"
                 value={formData.address}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg "
                 required
               />
               <input
@@ -142,7 +142,7 @@ const ProductDetails = () => {
                 placeholder="Date of delivery"
                 value={formData.dateOfDelivery}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white "
+                className="border rounded-md p-2 w-full bg-mybg  "
                 required
               />
               <input
@@ -151,7 +151,7 @@ const ProductDetails = () => {
                 placeholder="Quantity / Capacity"
                 value={formData.quantity}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg "
                 min="1"
                 required
               />
@@ -159,7 +159,7 @@ const ProductDetails = () => {
                 name="unitType"
                 value={formData.unitType}
                 onChange={handleChange}
-                className="border rounded-md p-2 w-full bg-secondary text-white"
+                className="border rounded-md p-2 w-full bg-mybg "
                 required
               >
                 <option value="Wp">Wp</option>
@@ -172,7 +172,7 @@ const ProductDetails = () => {
               placeholder="Type your enquiry detail here"
               value={formData.enquiryDetail}
               onChange={handleChange}
-              className="border rounded-md p-2 w-full mt-4 bg-secondary text-white"
+              className="border rounded-md p-2 w-full mt-4 bg-mybg "
               rows="4"
               required
             />

@@ -16,20 +16,20 @@ const Vendors = () => {
   );
   return (
     <>
-      <div className="p-6 bg-secondary text-white min-h-[80vh]">
+      <div className="p-6 bg-mybg text-mytext min-h-[80vh]">
         <h1 className="text-2xl font-bold mb-4 ">Vendors</h1>
         <input
           type="text"
           placeholder="Search vendors..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          className="w-full p-2  border-[0.5px] border-solid border-slate-500 rounded mb-4 bg-[#24273C]"
+          className="w-full p-2  border-[0.5px] border-solid border-slate-500 rounded mb-4 bg-mybg"
         />
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mt-4">
           {filteredVendors.map((vendor) => (
             <div
               key={vendor.id}
-              className="border-[0.5px] border-solid border-slate-500 p-4 rounded shadow  bg-[#24273C]"
+              className="border-[0.5px] border-solid border-slate-500 p-4 rounded-md bg-mybg shadow-lg"
             >
               <img
                 src={vendor.image}

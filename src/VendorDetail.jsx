@@ -10,16 +10,16 @@ function VendorDetail() {
 
   return (
     <>
-      <div className="p-6 text-white">
+      <div className="p-6 bg-mybg text-mytext">
         {vendor ? (
           <>
-            <div className="flex w-full gap-[4vw] flex-col md:flex-row">
+            <div className=" w-full  bg-boxbg rounded p-6">
               <div className="">
                 <h1 className="text-2xl font-bold mb-4">{vendor.name}</h1>
                 <img
                   src={vendor.image}
                   alt={vendor.name}
-                  className="w-full h-[50vw] md:h-[25vw] object-cover mb-4 rounded"
+                  className="w-full h-[50vw] md:h-[18vw] object-cover object-center shrink-0 mb-4 rounded"
                 />
               </div>
               <div className="w-40% flex flex-col justify-end pb-[1.5vw]">
@@ -32,7 +32,10 @@ function VendorDetail() {
                 </p>
                 <p>
                   <strong>Email:</strong>{" "}
-                  <a href={`mailto:${vendor.email}`} className="text-blue-500">
+                  <a
+                    href={`mailto:${vendor.email}`}
+                    className="text-blue-500 underline"
+                  >
                     {vendor.email}
                   </a>
                 </p>
@@ -40,7 +43,7 @@ function VendorDetail() {
                   <strong>Website:</strong>{" "}
                   <a
                     href={vendor.website}
-                    className="text-blue-500"
+                    className="text-blue-500 underline"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -49,11 +52,15 @@ function VendorDetail() {
                 </p>
               </div>
             </div>
-            <h2 className="text-2xl font-semibold mt-10  px-2">Products</h2>
-            <div className="grid md:gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-              {vendor.products.map((card, index) => (
-                <Card key={index} {...card} />
-              ))}
+            <div className=" w-full  bg-boxbg rounded px-6 my-4">
+              <h2 className="text-2xl font-semibold mt-10 pt-8  px-2">
+                Products
+              </h2>
+              <div className="grid md:gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                {vendor.products.map((card, index) => (
+                  <Card key={index} {...card} />
+                ))}
+              </div>
             </div>
           </>
         ) : (

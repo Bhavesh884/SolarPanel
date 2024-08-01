@@ -38,7 +38,7 @@ const App = () => {
   });
 
   return (
-    <div className="bg-secondary">
+    <div className="bg-mybg">
       <Router>
         <Navbar onSearch={handleSearchChange} />
         <Routes>

@@ -9,12 +9,12 @@ const Dropdown = ({ label, options, onSelect }) => {
   };
 
   return (
-    <div className="relative inline-block w-full text-white ">
+    <div className="relative inline-block w-full text-mytext">
       <label className="block uppercase tracking-wide text-xs font-bold mb-2 text-orange-600">
         {label}
       </label>
       <select
-        className="w-full bg-[#24273C] border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring focus:border-blue-300 py-2 pl-3 pr-10"
+        className="w-full bg-boxbg border border-gray-300 rounded-md shadow-lg focus:border-slate-600 py-2 pl-3 pr-10"
         value={selectedOption}
         onChange={handleSelect}
       >
