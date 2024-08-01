@@ -115,62 +115,69 @@ const Navbar = ({ onSearch }) => {
           <input
             type="text"
             placeholder="Search Product"
-            className="pl-4 pr-8 py-2 rounded-full border border-gray-400 focus:outline-none w-full"
+            className="pl-4 pr-8 py-2 rounded-full border bg-[#24273C] text-white border-gray-400 focus:outline-none w-full"
             value={searchTerm}
             onChange={handleSearchChange}
           />
         </div>
         <nav className="flex flex-col p-4 space-y-4">
           <Link
+            to="/vendors"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
+          >
+            <FaStore />
+            <span>Vendors</span>
+          </Link>
+          <Link
             to={"/products"}
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaStore />
             <span>Products</span>
           </Link>
           <a
             href="#"
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaCalculator />
             <span>Solar Calculator</span>
           </a>
           <a
             href="#"
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaBlog />
             <span>Blogs</span>
           </a>
           <a
             href="#"
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaPhone />
             <span>Contact Us</span>
           </a>
           <a
             href="#"
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaInfoCircle />
             <span>About Us</span>
           </a>
           <a
             href="#"
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaHandshake />
             <span>Affiliate Partner</span>
           </a>
           <a
             href="#"
-            className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded"
+            className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded"
           >
             <FaSitemap />
             <span>Channel Partner</span>
           </a>
-          <button className="flex items-center space-x-2 text-gray-800 hover:bg-gray-200 p-2 rounded mt-auto">
+          <button className="flex items-center space-x-2 text-white hover:bg-[#24273C] p-2 rounded mt-auto">
             <FaSignInAlt />
             <span>Login Or Register</span>
           </button>
